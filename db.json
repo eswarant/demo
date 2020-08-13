@@ -1,16 +1,40 @@
 {
   "posts": [
     {
-      "siteId": 1,
-      "title": "Post 11"
+      "id": 1,
+      "siteModelEntityId":1,
+      "siteId": "Post 11",
+      "siteName":"1",
+      "addressLine1":"1",
+      "addressLine2":"1",
+      "city":"1",
+      "state":"1",
+      "phoneNumber":"1",
+      "postalCode":"1"
     },
     {
-      "siteId": 2,
-      "title": "Post 2"
+      "id": 2,
+      "siteModelEntityId":2,
+      "siteId": "Post 11",
+      "siteName":"1",
+      "addressLine1":"1",
+      "addressLine2":"1",
+      "city":"1",
+      "state":"1",
+      "phoneNumber":"1",
+      "postalCode":"1"
     },
     {
-      "siteId": 3,
-      "title": "Post 3"
+      "id": 3,
+      "siteModelEntityId":3,
+      "siteId": "Post 11",
+      "siteName":"1",
+      "addressLine1":"1",
+      "addressLine2":"1",
+      "city":"1",
+      "state":"1",
+      "phoneNumber":"1",
+      "postalCode":"1"
     }
   ],
   "comments": [
