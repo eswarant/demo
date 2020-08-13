@@ -38,8 +38,12 @@
     }
   ],
   "comments": [
-    { "id": 1, "siteId":1, "building": "some comment1", "floors":1, "areas":"area1", "postId": 1 },
-    { "id": 2, "siteId":2, "building": "some comment2", "floors":2, "areas":"area1", "postId": 1 }
+    { "id": 1, "siteModelEntityId":1, "building": "Building1", "floors":1, "areaCount":5, "postId": 1 },
+    { "id": 2, "siteModelEntityId":2, "building": "Building2", "floors":2, "areaCount":10, "postId": 1 }
+    { "id": 3, "siteModelEntityId":3, "building": "Building3", "floors":3, "areaCount":15, "postId": 1 }
+    { "id": 4, "siteModelEntityId":4, "building": "Building4", "floors":4, "areaCount":10, "postId": 1 }
+    { "id": 5, "siteModelEntityId":5, "building": "Building5", "floors":5, "areaCount":16, "postId": 1 }
+    { "id": 6, "siteModelEntityId":6, "building": "Building6", "floors":6, "areaCount":19, "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
