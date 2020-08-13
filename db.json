@@ -1,16 +1,31 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Post 1"
+					"siteName": "Test Site 1",
+					"siteId": 1,
+					"buildingsCount": 10,
+					"areasCount": 2,
+					"locationCount": 1,
+					"subLocationCount": 1,
+					"binCount": 1
+				},
+    {
+      "siteName": "Test Site 2",
+					"siteId": 2,
+					"buildingsCount": 10,
+					"areasCount": 2,
+					"locationCount": 1,
+					"subLocationCount": 1,
+					"binCount": 1
     },
     {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+     "siteName": "Test Site 3",
+					"siteId": 3,
+					"buildingsCount": 10,
+					"areasCount": 2,
+					"locationCount": 1,
+					"subLocationCount": 1,
+					"binCount": 1
     }
   ],
   "comments": [
