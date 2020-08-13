@@ -1,113 +1,17 @@
 {
   "posts": [
     {
-					siteName: "Test Site 1",
-					siteId: 1,
-					buildingsCount: 10,
-					areasCount: 2,
-					locationCount: 1,
-					subLocationCount: 1,
-					binCount: 1
-				},
-				{
-					siteName: "Test Site 2",
-					siteId: 2,
-					buildingsCount: 9,
-					areasCount: 4,
-					locationCount: 5,
-					subLocationCount: 2,
-					binCount: 3
-				},
-				{
-					siteName: "Test Site 3",
-					siteId: 3,
-					buildingsCount: 1,
-					areasCount: 7,
-					locationCount: 6,
-					subLocationCount: 5,
-					binCount: 3
-				},
-				{
-					siteName: "Test Site 4",
-					siteId: 4,
-					buildingsCount: 5,
-					areasCount: 7,
-					locationCount: 8,
-					subLocationCount: 3,
-					binCount: 2
-				},
-				{
-					siteName: "Test Site 5",
-					siteId: 5,
-					buildingsCount: 10,
-					areasCount: 2,
-					locationCount: 1,
-					subLocationCount: 1,
-					binCount: 1
-				},
-				{
-					siteName: "Test Site 6",
-					siteId: 6,
-					buildingsCount: 9,
-					areasCount: 4,
-					locationCount: 5,
-					subLocationCount: 2,
-					binCount: 3
-				},
-				{
-					siteName: "Test Site 7",
-					siteId: 7,
-					buildingsCount: 1,
-					areasCount: 7,
-					locationCount: 6,
-					subLocationCount: 5,
-					binCount: 3
-				},
-				{
-					siteName: "Test Site 8",
-					siteId: 8,
-					buildingsCount: 5,
-					areasCount: 7,
-					locationCount: 8,
-					subLocationCount: 3,
-					binCount: 2
-				},
-				{
-					siteName: "Test Site 9",
-					siteId: 9,
-					buildingsCount: 10,
-					areasCount: 2,
-					locationCount: 1,
-					subLocationCount: 1,
-					binCount: 1
-				},
-				{
-					siteName: "Test Site 10",
-					siteId: 10,
-					buildingsCount: 9,
-					areasCount: 4,
-					locationCount: 5,
-					subLocationCount: 2,
-					binCount: 3
-				},
-				{
-					siteName: "Test Site 11",
-					siteId: 11,
-					buildingsCount: 1,
-					areasCount: 7,
-					locationCount: 6,
-					subLocationCount: 5,
-					binCount: 3
-				},
-				{
-					siteName: "Test Site 12",
-					siteId: 12,
-					buildingsCount: 5,
-					areasCount: 7,
-					locationCount: 8,
-					subLocationCount: 3,
-					binCount: 2
-				}
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
