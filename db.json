@@ -4,37 +4,37 @@
       "id": 1,
       "siteModelEntityId":1,
       "siteId": "1",
-      "siteName":"1",
-      "addressLine1":"1",
-      "addressLine2":"1",
-      "city":"1",
-      "state":"1",
-      "phoneNumber":"1",
-      "postalCode":"1"
+      "siteName":"Test Site1",
+      "addressLine1":"67 New Lane",
+      "addressLine2":"1New Lane",
+      "city":"San Diego",
+      "state":"California",
+      "phoneNumber":"(555) 555-1234",
+      "postalCode":"96522"
     },
     {
       "id": 2,
       "siteModelEntityId":2,
       "siteId": "2",
-      "siteName":"2",
-      "addressLine1":"2",
-      "addressLine2":"1",
-      "city":"1",
-      "state":"1",
-      "phoneNumber":"1",
-      "postalCode":"1"
+      "siteName":"Test Site2",
+      "addressLine1":"68 Old Lane",
+      "addressLine2":"Old Lane",
+      "city":"Austin",
+      "state":"Texas",
+      "phoneNumber":"(555) 555-56789",
+      "postalCode":"76522"
     },
     {
       "id": 3,
       "siteModelEntityId":3,
       "siteId": "3",
-      "siteName":"3",
-      "addressLine1":"3",
-      "addressLine2":"1",
-      "city":"1",
-      "state":"1",
-      "phoneNumber":"1",
-      "postalCode":"1"
+      "siteName":"Test Site3",
+      "addressLine1":"69 New Lane",
+      "addressLine2":"3New Lane",
+      "city":"Newyork",
+      "state":"Newyork",
+      "phoneNumber":"(555) 555-98765",
+      "postalCode":"86522"
     }
   ],
   "comments": [
